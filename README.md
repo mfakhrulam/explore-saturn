@@ -1,4 +1,23 @@
-# Submission "Dasar Pemrograman Web"
+# Explore Saturn
+
+> Submission "Dasar Pemrograman Web"
+
+Sebuah website interaktif bertema Saturnus yang menyediakan informasi terkait fakta menarik, struktur dan atmosfer, sistem cincin, misi eksplorasi, serta mitos dan fakta tentang Saturnus.
+
+## Fitur
+
+- **Navigasi Cepat**: Navbar yang responsif yang memudahkan pengguna menjelajahi bagian-bagian konten secara cepat.
+- **Slider Image**: Slider image pada hero section.
+- **Tombol Kembali ke Atas**: Tombol scroll to top untuk pengalaman pengguna yang lebih baik di halaman yang panjang.
+- **Bagian Fakta Singkat dan Cuaca**: `<aside>` yang menyajikan informasi tambahan dan cepat tentang Saturnus.
+
+
+## Teknologi yang Digunakan
+
+- **HTML5**: Struktur halaman
+- **CSS3**: Styling responsif dengan tema gelap dan elemen stylish
+- **JavaScript**: Interaksi pengguna, termasuk tombol scroll to top dan slider pada hero section.
+
 
 ## To-do Project (wajib)
 - [x]  Terdapat elemen `<header>`, `<footer>`, `<main>`, `<article>`, dan `<aside>` di berkas HTML.
