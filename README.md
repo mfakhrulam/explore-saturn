@@ -2,6 +2,8 @@
 
 > Submission "Dasar Pemrograman Web"
 
+<img src="img/ss.png" alt="screenshoot web" />
+
 Sebuah website interaktif bertema Saturnus yang menyediakan informasi terkait fakta menarik, struktur dan atmosfer, sistem cincin, misi eksplorasi, serta mitos dan fakta tentang Saturnus.
 
 ## Fitur
